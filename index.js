@@ -1,5 +1,4 @@
-// Use this tool to https://products.aspose.app/cells/conversion/xlsx-to-json
-
+//
 const fs = require('fs');
 const https = require('https');
 var settings = require('./settings.json');
