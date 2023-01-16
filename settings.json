@@ -1,0 +1,9 @@
+{
+    "recordKey": "record",
+    "streetKey": "street address",
+    "postalCodeKey": "zip",
+    "cityKey": "city",
+    "stateKey": "state",
+    "countryKey": "country",
+    "googleMapsApiKey": "google maps api key",
+}

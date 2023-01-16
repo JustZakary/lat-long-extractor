@@ -1,0 +1,11 @@
+{
+  "name": "lat-long-extractor",
+  "version": "1.0.0",
+  "description": "This script goes through a JSON file (\"source.json\" array and extracts the street address, postal code, city, etc from the array and resaves the list as a JSON file \"output.json\" with LAT and LONG included",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zakary Loney",
+  "license": "ISC"
+}
